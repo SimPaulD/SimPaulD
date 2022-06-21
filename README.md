@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Paul</h1>
 <h3 align="center">I have 19 years old and I am passionate about technology, music, photography, and Game Development having a little experience from my projects, and I want to gain more experience to develop my skills.</h3>
 
-<img align="center" alt="css" width="400" src="https://c.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
+<img alt="css" width="400" src="https://c.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpauld&label=Profile%20views&color=0e75b6&style=flat" alt="simpauld" /> </p>
 

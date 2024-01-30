@@ -19,7 +19,7 @@
 <a href="https://twitter.com/@simpauld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simpauld" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sim-paul-26297a19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sim-paul-26297a19b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sim-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sim-paul" height="30" width="40" /></a>
-<a href="https://instagram.com/simpfoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simpfoto" height="30" width="40" /></a>
+<a href="https://instagram.com/simpauld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simpfoto" height="30" width="40" /></a>
 <a href="https://discord.gg/Rambo#7573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rambo#7573" height="30" width="40" /></a>
 </p>
 

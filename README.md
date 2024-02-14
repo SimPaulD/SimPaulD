@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif)
 <h1 align="center">Hi 👋 I'm Paul</h1>
-<h3 align="center">A twenty-year-old with a passion for technology, music, photography, and Game Development with a few experiences already, I hope to gain more experience to enhance my skills.</h3>
+<h3 align="center">A twenty-one year old with a passion for technology, music, photography, and Game Development with a few experiences already, I hope to gain more experience to enhance my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpauld&label=Profile%20views&color=0e75b6&style=flat" alt="simpauld" /> </p>
